@@ -245,11 +245,11 @@ In a future update, Akuma-san will write a story that could serve as the basis f
 
 - We ran into several problems that led us to try different approaches, such as doubling or shortening note lengths to stay as close as possible to the original tracks while working with that demonic technique known as MIDI.
 
-- We decided not to go beyond scales in our music theory studies. Until we understand emotions a little better, that’s as far as we’re willing to go. For XXXXX, music is magic, and they would hate to find out how that magic actually works. Akuma-san, on the other hand, wants to keep investigating, so he’ll head to Earth-616 to see what he can discover about good music.
+- We decided not to go beyond scales in our music theory studies. Until we understand emotions a little better, that’s as far as we’re willing to go. For 4SensesDev, music is magic, and they would hate to find out how that magic actually works. Akuma-san, on the other hand, wants to keep investigating, so he’ll head to Earth-616 to see what he can discover about good music.
 
 Now for the most important part. 
 
-_After spending three months learning enough to form an informed opinion about a remix, here's my answer: I don't want to give my opinion after all_.
+_After spending three months learning enough to form an informed opinion about a remix, here's my answer: I don't want to give my opinion after all._
 
 Now that I've had a chance to get a rough idea of how a song is made, I understand what goes into building each section, making the instruments fit together, getting everything to make sense, and, on top of that, conveying a message, an emotion, or simply having fun. There's a lot of work behind all of this, and I have even more respect now for those who make a living from music.
 
@@ -325,7 +325,7 @@ I'll address this in a future update. I may have to go back to the original DAW 
 
 Three months spent learning music, hours spent putting everything together, and now I'm negotiating with a platform that apparently thinks it's the star of the show. **I made a musical monster, not a request for unsolicited audio "supervision".**
 
-Now, someone is bound to complain that this platform is only for code because it's a platform for developers, blah, blah, blah.
+Now, someone is bound to complain that this platform (GITHUB) is only for code because it's a platform for developers, blah, blah, blah.
 
 So I've got something for you, too. What do you think I used to make the videos I uploaded to YouTube? That's right: code, specifically Python, because I felt like it.
 
@@ -345,7 +345,7 @@ By the way, if anyone is wondering how I made the images for the videos, here's 
 
 After that, though, I put everything together myself using an editing program. Feel free to use whichever program you like if you want to recreate the process. That's also where I added the comic-book effects and the other details.
 
-And finally, in a little nod to Tom Holland, I'll let you in on this much: the image is based on a particular story arc from a world-famous Japanese animated series I watched as a kid. And since it originally aired in October, what a coincidence that we're doing this in October too, haha.
+And finally, in a little nod to Tom Holland, I'll let you in on this much: the image is based on a particular story arc from a world-famous Japanese animated series I watched as a kid. The part of the arc that inspired the image began airing in October, so what a coincidence that we're doing this in October too, haha.
 
 I challenge you to figure out which series it is and which story arc I'm referring to. It's not all science and work, so have a little fun, haha.
 
