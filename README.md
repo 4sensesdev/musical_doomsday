@@ -325,7 +325,7 @@ I'll address this in a future update. I may have to go back to the original DAW 
 
 Three months spent learning music, hours spent putting everything together, and now I'm negotiating with a platform that apparently thinks it's the star of the show. **I made a musical monster, not a request for unsolicited audio "supervision".**
 
-Now, someone is bound to complain that this platform (GITHUB) is only for code because it's a platform for developers, blah, blah, blah.
+Now, someone is bound to complain that this platform (GitHub) is "only for code" because it's a platform for developers, blah, blah, blah.
 
 So I've got something for you, too. What do you think I used to make the videos I uploaded to YouTube? That's right: code, specifically Python, because I felt like it.
 
